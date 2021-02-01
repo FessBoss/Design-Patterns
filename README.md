@@ -1,1 +1,2 @@
-# Design-Patterns
+# Паттерны проектирования (Design patterns)
+
