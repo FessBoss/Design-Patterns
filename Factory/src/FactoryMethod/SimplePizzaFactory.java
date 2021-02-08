@@ -1,4 +1,4 @@
-package Example1;
+package FactoryMethod;
 
 public class SimplePizzaFactory {
     public Pizza createPizza(String type) {

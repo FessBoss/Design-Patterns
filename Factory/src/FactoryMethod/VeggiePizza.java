@@ -1,4 +1,4 @@
-package Example1;
+package FactoryMethod;
 
 public class VeggiePizza extends Pizza {
     @Override

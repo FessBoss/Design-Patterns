@@ -1,4 +1,4 @@
-package Example1;
+package FactoryMethod;
 
 public abstract class Pizza {
     public abstract void prepare();
