@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.Example1;
 
 // Прежде всего необходимо реализовать интерфейс того типа, на который рассчитан ваш клиент
 public class TurkeyAdapter implements Duck {

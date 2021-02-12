@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.Example1;
 
 public class DuckTestDrive {
     public static void main(String[] args) {
