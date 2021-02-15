@@ -159,7 +159,7 @@
 
 ***
 
-[Компоновщик (Composite)](https://github.com/FessBoss/Design-Patterns/tree/main/TemplateMethod) <br/>
+[Компоновщик (Composite)](https://github.com/FessBoss/Design-Patterns/tree/main/Iterator-Composite) <br/>
 **Цель:** <br/>
 Скомпонировать объекты в структуры по типу "дерева", позволяя клиентам единообразно трактовать отдельные и составные
 объекты.
